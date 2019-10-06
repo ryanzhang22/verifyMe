@@ -13,3 +13,6 @@ and classified, the better the model will perform. However, due to the limited n
 of training examples and inherently imperfect nature of the neural network, images
 are sometimes misclassified. The best way to avoid this is, as always, to use more
 training images.
+
+This project was one of my first dives into neural networks and was done mainly for fun.
+I will come back to this project and update with the knowledge I have now.
